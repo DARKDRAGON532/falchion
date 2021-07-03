@@ -1,0 +1,20 @@
+{
+    "name": "Falchion",
+    "description": "Make more methods of requests from your browser!",
+    "version": "1.0",
+    "manifest_version": 3,
+    "background": {
+        "service_worker": "background.js"
+    },
+    "action": {
+        "default_popup": "src/popup/popup.html",
+        "default_icon": {
+            "128": "./src/images/falchion.png"
+        }
+    },
+    "permissions": ["storage"],
+    "options_page": "src/options/options.html",
+    "icons": {
+        "128": "./src/images/falchion.png"
+    }
+}
