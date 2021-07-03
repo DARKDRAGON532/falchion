@@ -17,7 +17,7 @@ Falchion is a browser extension which lets you make POST, PUT, DELETE and more r
 # How To Install
 Since Google has this policy of paying $5 to upload 20 extensions on their webstore, I didn't upload it there so you have to install it manually.
 
-- Download the latest release.
+- Download the latest [https://github.com/DARKDRAGON532/falchion/releases/](release).
 - Unzip it
 - Go to `chrome://extensions`
 - Toggle developer mode
